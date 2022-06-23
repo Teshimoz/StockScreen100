@@ -1,5 +1,5 @@
 # StockScreen100
-<b>Notebook to get the current and history prices of assets in portfolio, visualize assets distribution and trendlines, calculate rebalancing and assets correlation</b><br><br>
+<b>Current and history prices of assets in portfolio, visualization of assets distribution, rebalancing, trendlines and assets correlation</b><br><br>
 **Rendered notebook:**<br>
 https://nbviewer.org/github/Teshimoz/StockScreen100/blob/e2d888ba5c0a866b1e112957b559ae75f3e45559/StockScreen100.ipynb
 <br>
@@ -12,9 +12,9 @@ As a result will see how much to buy/sell to keep the portfolio balanced and may
 Project contains:
 * Web scraping for current assets prices
 * Rebalancing calculations
-* Visualisation of current assets value distribution vs target portfolio proportion
+* Visualization of current assets value distribution vs target portfolio proportion
 * Web scraping for history prices
-* Visualizations of portfolio value distribution over last year, absolute and normalized
+* Visualizations of portfolio values distribution over last year, absolute and normalized
 * Extrapolation of history data (for general possible trend)
 * Checking the correlation matrix of portfolio
 
