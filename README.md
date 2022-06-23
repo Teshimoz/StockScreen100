@@ -1,7 +1,7 @@
 # Portfolio Manager
 <b>Current and history prices of assets in portfolio, visualization of assets distribution, rebalancing, trendlines and assets correlation</b><br><br>
 **Rendered notebook:**<br>
-https://nbviewer.org/github/Teshimoz/StockScreen100/blob/e2d888ba5c0a866b1e112957b559ae75f3e45559/StockScreen100.ipynb
+https://nbviewer.org/github/Teshimoz/portfolio_manager/blob/94fe8866d3d11b06d81382ee3dbcbd35387f4f14/portfolio_manager.ipynb
 <br>
 <br>
 **Project description:**
