@@ -1,5 +1,5 @@
 # StockScreen100
-<b>Notebook to get the current and history prices of assets in portfolio, visualise distribution and trendlines, calculate rebalancing and assets correlation</b><br><br>
+<b>Notebook to get the current and history prices of assets in portfolio, visualize assets distribution and trendlines, calculate rebalancing and assets correlation</b><br><br>
 **Rendered notebook:**<br>
 https://nbviewer.org/github/Teshimoz/StockScreen100/blob/e2d888ba5c0a866b1e112957b559ae75f3e45559/StockScreen100.ipynb
 <br>
